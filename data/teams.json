@@ -1,0 +1,12 @@
+{
+  "501": {
+    "pointsLast5": 12,
+    "injuries": 0,
+    "tactics": "attacking"
+  },
+  "502": {
+    "pointsLast5": 6,
+    "injuries": 1,
+    "tactics": "balanced"
+  }
+}
