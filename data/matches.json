@@ -1,0 +1,14 @@
+[
+  {
+    "league": "AUS_NPL_QLD",
+    "teamId": 501,
+    "goalsFor": 3,
+    "goalsAgainst": 1
+  },
+  {
+    "league": "AUS_NPL_QLD",
+    "teamId": 502,
+    "goalsFor": 1,
+    "goalsAgainst": 2
+  }
+]
